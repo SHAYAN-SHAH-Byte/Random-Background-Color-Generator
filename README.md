@@ -3,7 +3,7 @@ This project is a simple web application that changes the background color of th
 
 //important
 🌟 Future Improvements
-Add HEX color code support.
+Add HEX color code support./// Done
 Allow users to copy the generated color.
 Include smooth transitions for better UI experience.
 
